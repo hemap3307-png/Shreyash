@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "shreyashdashboard"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "18460beb-2840-49d0-a0b7-da511f10e17d"
+  }
+}
